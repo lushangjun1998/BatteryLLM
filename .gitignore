@@ -1,6 +1,6 @@
 server/chroma_qa/
 server/model_dir/
 server/txt_file/
-.idea
+.ide
 __pycache__
 rag_vue3_v1_0/node_modules
