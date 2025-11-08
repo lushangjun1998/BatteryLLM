@@ -1,4 +1,4 @@
-## A Question-Answering System Based on LLM RAG Technology
+## A Battery LLM System Based on RAG Technology
 
 ----------------------------------
 ### 1. Overview Architecture
