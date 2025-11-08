@@ -2,10 +2,10 @@
 
 ----------------------------------
 ### 1. Overview Architecture
-![](/img/RAG流程图.png)
+![](/server/img/RAG流程图.png)
 
 ### 2. Demonstration
-![](/img/效果图.png)
+![](/server/img/效果图.png)
 
 ### 3. Requirements
 * python: 3.9
